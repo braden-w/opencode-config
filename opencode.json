@@ -4,6 +4,12 @@
     "opencode-antigravity-auth@1.5.1",
     "opencode-openai-codex-auth"
   ],
+  "mcp": {
+    "deepwiki": {
+      "type": "remote",
+      "url": "https://mcp.deepwiki.com/sse"
+    }
+  },
   "provider": {
     "google": {
       "name": "Google",
