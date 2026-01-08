@@ -6,6 +6,7 @@
 		"agent-usage-reminder",
 		"todo-continuation-enforcer"
 	],
+	"disabled_mcps": ["context7"],
 	"agents": {
 		"librarian": {
 			"model": "opencode/glm-4.7-free"
