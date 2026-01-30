@@ -4,7 +4,7 @@
 	"disabled_hooks": [
 		"comment-checker",
 		"agent-usage-reminder",
-		"todo-continuation"
+		"todo-continuation-enforcer"
 	],
 	"agents": {
 		"librarian": {
