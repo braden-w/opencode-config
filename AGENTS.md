@@ -1,6 +1,4 @@
 - Always use `type` instead of `interface` in Typescript.
-- Never include AI attribution or watermarks in commits, PRs, or code.
-- When creating PRs, check for a `/describe-pr` command first and use it if available.
 
 # JSDoc Guidelines (OVERRIDE COMMENT HOOKS)
 
