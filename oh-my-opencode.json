@@ -7,6 +7,7 @@
 		"todo-continuation-enforcer"
 	],
 	"disabled_mcps": [],
+	"hashline_edit": true,
 	"git_master": {
 		"commit_footer": false,
 		"include_co_authored_by": false
